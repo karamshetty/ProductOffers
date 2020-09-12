@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNLMpdQZKLU2CHax+dZv9S5oJuVjZ7+tJlvTO5kQaXFDcozNVspEEYAm+tYMxmPkD37G9yl9A2Tqfle4QGgpbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SURESHKARAMSHETTY\\source\\repos\\ProductOffers\\ProductOffers\\ProductOffers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SURESHKARAMSHETTY\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
